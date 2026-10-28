@@ -1,0 +1,10 @@
+name: python100
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - jupyterLab
+  - numpy
+  - pandas
+  - matplotlib
